@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+}
+
+.separator-v {
+  border: 3px solid #000;
+}
+
+.separator-h {
+  border: 3px solid #000;
+}
+
+.edit-panel {
+  flex: 2.5;
+}
+
+.preview-panel {
+  flex: 8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
